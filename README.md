@@ -25,17 +25,28 @@ involved adding data for tectonic plates, adding a layer to the earthquake map t
 
 ![img](https://github.com/fhsal/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/quake2_plates.png)
 
+* Adding interactive controls 
+
 ![img](https://github.com/fhsal/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/quake2_plates_controls.png)
 
 
-* Deliverable 2: involved adding major earthquake data as a layer to the map, as for tectonic plates.  As these overlay with the existing earthquake data it was necessary to modify the rendering so that the major earthquakes could be easily visible on the map
+# Deliverable 2: 
+involved adding major earthquake data as a layer to the map, as for tectonic plates.  As these overlay with the existing earthquake data it was necessary to modify the rendering so that the major earthquakes could be easily visible on the map
+
+* Major earthquakes 
 
 ![img](https://github.com/fhsal/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/quake2_major_quakes.png)
 
 
-* Deliverable 3: add a third map style to the page - I actually added two more:  light and satellite 
+# Deliverable 3: 
+add a third map style to the page - I actually added two more:  light and satellite 
+
+
+* Satellite
 
 ![img](https://github.com/fhsal/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/quake2_satellite.png)
+
+* Light 
 
 ![img](https://github.com/fhsal/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/quake2_light.png)
 
