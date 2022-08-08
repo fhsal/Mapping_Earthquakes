@@ -18,7 +18,7 @@ The Challenge is built upon work done in the module, where recent earthquake map
 ![img](https://github.com/fhsal/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/quake1_module.png)
 
 
-# Deliverable 1: 
+### Deliverable 1: 
 involved adding data for tectonic plates, adding a layer to the earthquake map to display the tectonic plate outlines and adding the tectonic plates as part of the interactive controls for the page 
 
 * Tectonic plates
@@ -30,7 +30,7 @@ involved adding data for tectonic plates, adding a layer to the earthquake map t
 ![img](https://github.com/fhsal/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/quake2_plates_controls.png)
 
 
-# Deliverable 2: 
+### Deliverable 2: 
 involved adding major earthquake data as a layer to the map, as for tectonic plates.  As these overlay with the existing earthquake data it was necessary to modify the rendering so that the major earthquakes could be easily visible on the map
 
 * Major earthquakes 
@@ -38,7 +38,7 @@ involved adding major earthquake data as a layer to the map, as for tectonic pla
 ![img](https://github.com/fhsal/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/quake2_major_quakes.png)
 
 
-# Deliverable 3: 
+### Deliverable 3: 
 add a third map style to the page - I actually added two more:  light and satellite 
 
 
